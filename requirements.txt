@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+openai
+langchain_openai
+langchain_anthropic
+anthropic
+sqlalchemy
+pyodbc
+faiss-cpu
