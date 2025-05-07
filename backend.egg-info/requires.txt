@@ -1,0 +1,8 @@
+fastapi
+sqlalchemy
+passlib
+python-jose
+python-multipart
+bcrypt
+pytest
+pytest-cov
