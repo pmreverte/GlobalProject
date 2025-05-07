@@ -9,3 +9,8 @@ anthropic
 sqlalchemy
 pyodbc
 faiss-cpu
+passlib[bcrypt]
+python-jose[cryptography]
+pydantic
+pytest
+pytest-cov
